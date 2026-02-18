@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gree-flow/static/css/main.e6c13ad2.css",
+    "main.js": "/gree-flow/static/js/main.c451a987.js",
+    "static/js/453.bcd230d5.chunk.js": "/gree-flow/static/js/453.bcd230d5.chunk.js",
+    "index.html": "/gree-flow/index.html",
+    "main.e6c13ad2.css.map": "/gree-flow/static/css/main.e6c13ad2.css.map",
+    "main.c451a987.js.map": "/gree-flow/static/js/main.c451a987.js.map",
+    "453.bcd230d5.chunk.js.map": "/gree-flow/static/js/453.bcd230d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c451a987.js"
+  ]
+}
